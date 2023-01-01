@@ -1,0 +1,18 @@
+{
+  "name": "students",
+  "version": "1.0.0",
+  "description": "this is just a demo project",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon index.js"
+  },
+  "author": "Smitesh Tamboli",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
